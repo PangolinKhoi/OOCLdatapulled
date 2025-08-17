@@ -1,6 +1,0 @@
-pandas
-numpy
-gspread
-oauth2client
-openpyxl
-tzdata
